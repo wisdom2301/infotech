@@ -1,0 +1,49 @@
+body {
+font-size: 15px;
+}
+h1 {
+font-family: 'Big Shoulders Display', cursive;
+font-size: 50px;
+}
+p, button {
+    font-family: 'Lexend Deca', sans-serif;
+}
+p {
+    color: hsla(0, 0%, 100%, 0.75);
+}
+h1 {
+    color:hsla(0, 0%, 100%, 0.75);
+    text-transform: uppercase;
+}
+button {
+    background-color: hsl(0, 0%, 95%);
+    border-radius: 40px;
+    border: 0;
+    color:hsl(31, 77%, 52%);
+    padding: 18px 38px;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.container {
+    background-color: hsl(31, 77%, 52%);
+    width:450px;
+    height: 600px;
+    padding: 50px 40px;
+    margin: 5px;
+}
+.container1 {
+    background-color: hsl(184, 100%, 22%);
+    width:450px;
+    height: 600px;
+    padding: 50px 40px;
+    margin: 5px;
+}
+.container2 {
+    background-color: hsl(179, 100%, 13%);
+    width:450px;
+    height: 600px;
+    padding: 50px 40px;
+    margin: 5px;
+.flex-container {
+    display: flex;
+}
